@@ -17,6 +17,10 @@ in `about:config` change this value
 
 use `sidebar.position_start` true/false to switch left/right side
 
+## ⚠ Disclaimer
+
+This extension is an independent project, has no relationship, and is not affiliated to DeepL in any way. This extension is primarily for personal use; a personal project if you will. This add-on _only_ launches their website in the sidebar.
+
 ## 💜 Acknowledgments
 
 This project is based on [this project](https://github.com/semanticdata/firefox-whatsapp-in-sidebar), which is a huge help
