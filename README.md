@@ -1,4 +1,4 @@
-# DeepL in Firefox Sidebar
+# ![logo](src/icons/48x48.png) DeepL in Firefox Sidebar
 
 ![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-in-sidebar)
 
