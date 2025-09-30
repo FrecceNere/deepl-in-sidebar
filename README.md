@@ -1,8 +1,8 @@
-# Webpage in Firefox Sidebar
+# DeepL in Firefox Sidebar
 
 ![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-in-sidebar)
 
-A Firefox extension template to add any website to the sidebar. Meant as a workaround until this is supported natively (like in Brave, Zenbrowser and more).
+A Firefox extension to add DeepL to the sidebar. Meant as a workaround until this is supported natively (like in Brave, Zenbrowser and more).
 
 ## Usage
 
